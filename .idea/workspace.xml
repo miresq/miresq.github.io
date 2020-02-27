@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="x">
-      <change beforePath="$PROJECT_DIR$/fund.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img-speed/portfolio-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img-speed/portfolio-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img-speed/portfolio-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img-speed/portfolio-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-callout.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-masthead.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/share.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/share.jpg" afterDir="false" />
+    <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,13 +89,7 @@
       <workItem from="1582752161731" duration="1828000" />
       <workItem from="1582754009644" duration="756000" />
       <workItem from="1582813943923" duration="1553000" />
-    </task>
-    <task id="LOCAL-00016" summary="x">
-      <created>1575585751907</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1575585751907</updated>
+      <workItem from="1582819497575" duration="290000" />
     </task>
     <task id="LOCAL-00017" summary="x">
       <created>1575586003740</created>
@@ -443,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582283129398</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="x">
+      <created>1582819520586</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1582819520587</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
