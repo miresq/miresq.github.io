@@ -4,7 +4,6 @@
     <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,14 +90,8 @@
       <workItem from="1582754009644" duration="756000" />
       <workItem from="1582813943923" duration="1553000" />
       <workItem from="1582819497575" duration="370000" />
-      <workItem from="1582825210973" duration="326000" />
-    </task>
-    <task id="LOCAL-00018" summary="x">
-      <created>1575586082621</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1575586082621</updated>
+      <workItem from="1582825210973" duration="950000" />
+      <workItem from="1582826943325" duration="29000" />
     </task>
     <task id="LOCAL-00019" summary="x">
       <created>1575586154007</created>
@@ -436,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582819795673</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="x">
+      <created>1582825556448</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1582825556449</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
