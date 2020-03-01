@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="">
+    <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="xxx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,14 +97,9 @@
       <workItem from="1582980471925" duration="1236000" />
       <workItem from="1583006048024" duration="95000" />
       <workItem from="1583013515364" duration="1790000" />
-      <workItem from="1583015347364" duration="644000" />
-    </task>
-    <task id="LOCAL-00030" summary="x">
-      <created>1575827783604</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1575827783604</updated>
+      <workItem from="1583015347364" duration="1260000" />
+      <workItem from="1583060343072" duration="27000" />
+      <workItem from="1583065758012" duration="85000" />
     </task>
     <task id="LOCAL-00031" summary="x">
       <created>1575828744633</created>
@@ -443,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583013848789</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="xxx">
+      <created>1583015993950</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1583015993951</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
