@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="">
+    <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="xxx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agb.html" beforeDir="false" afterPath="$PROJECT_DIR$/agb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datenschutz.html" beforeDir="false" afterPath="$PROJECT_DIR$/datenschutz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -453,25 +475,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="xxx" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="520" y="149" width="936" height="807" key="CommitChangelistDialog2" timestamp="1575891528921">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1588713897868">
+      <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="520" y="149" width="936" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575891528921" />
-    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1575829330404">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575829330404" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575850660417">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1575850660417" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575890587085">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575890587085" />
-    <state x="87" y="236" width="869" height="592" key="find.popup" timestamp="1575893003831">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="87" y="236" width="869" height="592" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1575893003831" />
+    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1850.1053@70.27.1850.1053" timestamp="1588713897868" />
   </component>
 </project>
