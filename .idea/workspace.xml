@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="xxx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/p.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/p.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -473,9 +472,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="xxx" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1588798148641">
+    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589994467071">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1850.1053@70.27.1850.1053" timestamp="1588798148641" />
+    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1850.1053@70.27.1850.1053" timestamp="1589994467071" />
   </component>
 </project>
