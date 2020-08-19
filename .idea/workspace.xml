@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="">
+    <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="xxx">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -471,18 +473,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="xxx" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1593367768027">
+    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1593389891179">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1593367768027" />
-    <state x="434" y="211" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1593367867833">
+    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1593389891179" />
+    <state x="470" y="81" width="486" height="640" key="RollbackChangesDialog" timestamp="1597837502548">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="434" y="211" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1296.741@70.27.1296.741" timestamp="1593367867833" />
+    <state x="470" y="81" width="486" height="640" key="RollbackChangesDialog/70.27.1296.741@70.27.1296.741" timestamp="1597837502548" />
+    <state x="434" y="211" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1593367997173">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="434" y="211" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1296.741@70.27.1296.741" timestamp="1593367997173" />
     <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1850.1053@70.27.1850.1053" timestamp="1589994467071" />
     <state x="382" y="186" width="661" height="430" key="git4idea.merge.GitPullDialog" timestamp="1593367520109">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="382" y="186" width="661" height="430" key="git4idea.merge.GitPullDialog/70.27.1296.741@70.27.1296.741" timestamp="1593367520109" />
+    <state x="381" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597837033574">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="381" y="89" width="672" height="678" key="search.everywhere.popup/70.27.1296.741@70.27.1296.741" timestamp="1597837033574" />
   </component>
 </project>
